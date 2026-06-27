@@ -16,3 +16,7 @@ The firmware includes several features to improve the display quality, including
 - Peak hold indication
 - Adjustable input sensitivity
 - Low component count
+
+<p align="center">
+  <img src="images/vu-meter.png" width="600">
+</p>
