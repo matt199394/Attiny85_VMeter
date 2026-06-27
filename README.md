@@ -18,5 +18,5 @@ The firmware includes several features to improve the display quality, including
 - Low component count
 
 <p align="center">
-  <img src="atiny85v-meter.png" width="600">
+  <img src="atiny85v-meter.png" width="800">
 </p>
